@@ -28,6 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## Get in Touch
 
-- [LinkedIn]((https://www.linkedin.com/in/sahithi-yanala-066432287/))
+- [LinkedIn](https://www.linkedin.com/in/sahithi-yanala-066432287/)
 
 Thanks for visiting my profile!
