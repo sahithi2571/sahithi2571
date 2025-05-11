@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 🌱 I’m currently learning new technologies and improving my skills.
 - 👯 I’m looking to collaborate on exciting projects.
 - 💬 Ask me about anything related to programming and development.
-- 📫 How to reach me: You can contact me via [email](mailto:youremail@example.com).
+- 📫 How to reach me: You can contact me via [email](mailto:sahihti2571@gmail.com).
 
 ## My GitHub Stats
 
