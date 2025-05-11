@@ -11,20 +11,19 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 - 🌱 I’m currently learning new technologies and improving my skills.
 - 👯 I’m looking to collaborate on exciting projects.
-- 💬 Ask me about anything related to programming and development.
-- 📫 How to reach me: You can contact me via [email](mailto:sahihti2571@gmail.com).
 
+
+## 🌱Skills
+
+Languages: Java(Data Structures and Algorithms), C, HTML, CSS, JavaScript, SQL
+Libraries and Frameworks: React.js, Node.js, Express.js
+Databases: MySQL
+Tools: Git, Github, VSCode
+
+  
 ## My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahithi2571&show_icons=true)
-
-
-## Skills
-
-- Programming Languages: JavaScript, Python, Java
-- Web Development: HTML, CSS, React, Node.js
-- Databases: MySQL, MongoDB
-- Tools: Git, Docker, Jenkins
 
 ## Get in Touch
 
