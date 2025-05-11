@@ -16,8 +16,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 🌱Skills
 
 Languages: Java(Data Structures and Algorithms), C, HTML, CSS, JavaScript, SQL
+
 Libraries and Frameworks: React.js, Node.js, Express.js
+
 Databases: MySQL
+
 Tools: Git, Github, VSCode
 
   
