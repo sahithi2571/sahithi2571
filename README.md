@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 - 🌱 I’m currently learning new technologies and improving my skills.
 - 👯 I’m looking to collaborate on exciting projects.
+- 👩‍💻Looking to collaborate on open-source projects and innovative ideas.
 
 
 ## 🌱Skills
